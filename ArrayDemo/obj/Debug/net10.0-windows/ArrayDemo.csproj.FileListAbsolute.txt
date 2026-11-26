@@ -1,0 +1,17 @@
+F:\2026c#\ArrayDemo\bin\Debug\net10.0-windows\ArrayDemo.exe
+F:\2026c#\ArrayDemo\bin\Debug\net10.0-windows\ArrayDemo.deps.json
+F:\2026c#\ArrayDemo\bin\Debug\net10.0-windows\ArrayDemo.runtimeconfig.json
+F:\2026c#\ArrayDemo\bin\Debug\net10.0-windows\ArrayDemo.dll
+F:\2026c#\ArrayDemo\bin\Debug\net10.0-windows\ArrayDemo.pdb
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.Form1.resources
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.csproj.GenerateResource.cache
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.AssemblyInfoInputs.cache
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.AssemblyInfo.cs
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.csproj.CoreCompileInputs.cache
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.dll
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\refint\ArrayDemo.dll
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.pdb
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.genruntimeconfig.cache
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ref\ArrayDemo.dll
+F:\2026c#\ArrayDemo\obj\Debug\net10.0-windows\ArrayDemo.csproj.Up2Date
